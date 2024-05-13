@@ -1,0 +1,18 @@
+I08m 12 257 2570
+I08m.mat 16+24 623/mV 16 0 1344 -25947 0 I
+I08m.mat 16+24 623/mV 16 0 -644 -8190 0 II
+I08m.mat 16+24 623/mV 16 0 -2266 24193 0 III
+I08m.mat 16+24 623/mV 16 0 16 7726 0 AVR
+I08m.mat 16+24 623/mV 16 0 1786 -7884 0 AVL
+I08m.mat 16+24 623/mV 16 0 -1045 -20305 0 AVF
+I08m.mat 16+24 623/mV 16 0 -505 11334 0 V1
+I08m.mat 16+24 623/mV 16 0 234 -12125 0 V2
+I08m.mat 16+24 623/mV 16 0 -920 -10723 0 V3
+I08m.mat 16+24 623/mV 16 0 128 23046 0 V4
+I08m.mat 16+24 623/mV 16 0 -593 -29910 0 V5
+I08m.mat 16+24 623/mV 16 0 -802 -30990 0 V6
+#<age>: 51 <sex>: F 
+# patient 4
+# ventricular bigeminy, ventricular couplets
+#Creator: wfdb2mat
+#Source: record incartdb/I08

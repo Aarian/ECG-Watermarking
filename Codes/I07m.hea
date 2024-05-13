@@ -1,0 +1,18 @@
+I07m 12 257 2570
+I07m.mat 16+24 240/mV 16 0 455 -2228 0 I
+I07m.mat 16+24 240/mV 16 0 3140 -6766 0 II
+I07m.mat 16+24 240/mV 16 0 2822 19872 0 III
+I07m.mat 16+24 240/mV 16 0 -1931 21772 0 AVR
+I07m.mat 16+24 240/mV 16 0 -1269 31981 0 AVL
+I07m.mat 16+24 240/mV 16 0 2779 -21689 0 AVF
+I07m.mat 16+24 240/mV 16 0 553 -92 0 V1
+I07m.mat 16+24 240/mV 16 0 638 -3917 0 V2
+I07m.mat 16+24 240/mV 16 0 1857 -24332 0 V3
+I07m.mat 16+24 240/mV 16 0 -654 -19982 0 V4
+I07m.mat 16+24 240/mV 16 0 140 5685 0 V5
+I07m.mat 16+24 240/mV 16 0 895 17767 0 V6
+#<age>: 80 <sex>: M <diagnoses> Transient ischemic attack
+# patient 3
+# PVCs, supraventricular triplets
+#Creator: wfdb2mat
+#Source: record incartdb/I07

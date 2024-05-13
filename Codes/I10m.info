@@ -1,0 +1,20 @@
+Source: record incartdb/I10
+val has 12 rows (signals) and 2570 columns (samples/signal)
+Duration:     0:10
+Sampling frequency: 257 Hz  Sampling interval: 0.003891050584 sec
+Row	Signal	Gain	Base	Units
+1	I	254	0	mV
+2	II	254	0	mV
+3	III	254	0	mV
+4	AVR	254	0	mV
+5	AVL	254	0	mV
+6	AVF	254	0	mV
+7	V1	254	0	mV
+8	V2	254	0	mV
+9	V3	254	0	mV
+10	V4	254	0	mV
+11	V5	254	0	mV
+12	V6	254	0	mV
+
+To convert from raw units to the physical units shown
+above, subtract 'base' and divide by 'gain'.

@@ -1,0 +1,18 @@
+I06m 12 257 2570
+I06m.mat 16+24 240/mV 16 0 273 -21073 0 I
+I06m.mat 16+24 240/mV 16 0 1083 -5504 0 II
+I06m.mat 16+24 240/mV 16 0 940 21989 0 III
+I06m.mat 16+24 240/mV 16 0 -876 29357 0 AVR
+I06m.mat 16+24 240/mV 16 0 -484 18309 0 AVL
+I06m.mat 16+24 240/mV 16 0 722 18129 0 AVF
+I06m.mat 16+24 240/mV 16 0 70 -15152 0 V1
+I06m.mat 16+24 240/mV 16 0 565 30377 0 V2
+I06m.mat 16+24 240/mV 16 0 429 -14474 0 V3
+I06m.mat 16+24 240/mV 16 0 511 -27200 0 V4
+I06m.mat 16+24 240/mV 16 0 455 32289 0 V5
+I06m.mat 16+24 240/mV 16 0 341 -32067 0 V6
+#<age>: 80 <sex>: M <diagnoses> Transient ischemic attack
+# patient 3
+# ST changes, PVCs
+#Creator: wfdb2mat
+#Source: record incartdb/I06

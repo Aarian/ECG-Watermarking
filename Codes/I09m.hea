@@ -1,0 +1,18 @@
+I09m 12 257 2570
+I09m.mat 16+24 254/mV 16 0 966 -17295 0 I
+I09m.mat 16+24 254/mV 16 0 642 8732 0 II
+I09m.mat 16+24 254/mV 16 0 18 -12537 0 III
+I09m.mat 16+24 254/mV 16 0 -1011 -4056 0 AVR
+I09m.mat 16+24 254/mV 16 0 103 -6255 0 AVL
+I09m.mat 16+24 254/mV 16 0 -89 3247 0 AVF
+I09m.mat 16+24 254/mV 16 0 45 -9045 0 V1
+I09m.mat 16+24 254/mV 16 0 144 9040 0 V2
+I09m.mat 16+24 254/mV 16 0 129 25512 0 V3
+I09m.mat 16+24 254/mV 16 0 276 16048 0 V4
+I09m.mat 16+24 254/mV 16 0 -131 -5274 0 V5
+I09m.mat 16+24 254/mV 16 0 492 5322 0 V6
+#<age>: 68 <sex>: M 
+# patient 5
+# ventricular couplets, ventricular escape beats, AV nodal block 2 degree Moebits 1
+#Creator: wfdb2mat
+#Source: record incartdb/I09

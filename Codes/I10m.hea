@@ -1,0 +1,18 @@
+I10m 12 257 2570
+I10m.mat 16+24 254/mV 16 0 529 -25476 0 I
+I10m.mat 16+24 254/mV 16 0 -1166 -10058 0 II
+I10m.mat 16+24 254/mV 16 0 -1190 2548 0 III
+I10m.mat 16+24 254/mV 16 0 168 -10033 0 AVR
+I10m.mat 16+24 254/mV 16 0 484 -28392 0 AVL
+I10m.mat 16+24 254/mV 16 0 -1300 11104 0 AVF
+I10m.mat 16+24 254/mV 16 0 448 -16626 0 V1
+I10m.mat 16+24 254/mV 16 0 -188 -21431 0 V2
+I10m.mat 16+24 254/mV 16 0 -140 -14 0 V3
+I10m.mat 16+24 254/mV 16 0 728 5704 0 V4
+I10m.mat 16+24 254/mV 16 0 295 -24357 0 V5
+I10m.mat 16+24 254/mV 16 0 144 -20565 0 V6
+#<age>: 68 <sex>: M 
+# patient 5
+# tachycardia, AV nodal block 2 degree Moebits 1, noise
+#Creator: wfdb2mat
+#Source: record incartdb/I10
